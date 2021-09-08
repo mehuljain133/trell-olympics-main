@@ -1,0 +1,6 @@
+*.cfg
+*.sqlite3
+__pycache__
+Include
+Lib
+Scripts
